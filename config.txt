@@ -1,0 +1,1 @@
+{'KeyRight': 'DKEY', 'VolSfx': 1.0, 'KeyDown': 'SKEY', 'Lang': 'English', 'Debug': False, 'KeyRestart': 'RKEY', 'KeyQuit': 'ESCKEY', 'KeyLeft': 'AKEY', 'KeyUse': 'SPACEKEY', 'KeySwitch': 'LEFTSHIFTKEY', 'VolBgm': 1.0, 'KeyUp': 'WKEY'}

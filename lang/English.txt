@@ -1,0 +1,24 @@
+{
+	'GeneralTitle' : 'Old New World',
+	'GeneralNext' : 'Next',
+	'GeneralPrevious' : 'Previous',
+	'GeneralBack' : 'Back',
+	'GeneralLoading' : 'Loading...',
+	
+	'MenuPlay' : 'Play',
+	'MenuSettings' : 'Settings',
+	'MenuHelp' : 'Help',
+	'MenuAbout' : 'About',
+	'MenuQuit' : 'Quit',
+	'MenuLangSwitch' : 'Português',
+	
+	'HudTime' : 'Time:',
+	'HudPoints' : 'Points:',
+	'HudPoints2' : ' points',
+	'HudGameOver' : 'Game Over!',
+	'HudRestart' : 'Restart',
+	'HudBestScores' : 'Scores',
+	'HudExit' : 'Exit',
+	
+	'HelpText' : "Use WASD buttons to move, Spacebar to use, Left Shift to switch characters, R to restart level and Esc to quit to menu.This game was made in four days for the game jam BGMC 32, by Diego Almeida, Capuco and Joel Gomes."
+}

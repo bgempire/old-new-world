@@ -1,0 +1,24 @@
+{
+	'GeneralTitle' : 'Velho Novo Mundo',
+	'GeneralNext' : 'Próximo',
+	'GeneralPrevious' : 'Anterior',
+	'GeneralBack' : 'Voltar',
+	'GeneralLoading' : 'Carregando...',
+	
+	'MenuPlay' : 'Jogar',
+	'MenuSettings' : 'Ajustes',
+	'MenuHelp' : 'Ajuda',
+	'MenuAbout' : 'Sobre',
+	'MenuQuit' : 'Sair',
+	'MenuLangSwitch' : 'English',
+	
+	'HudTime' : 'Tempo:',
+	'HudPoints' : 'Pontos:',
+	'HudPoints2' : ' pontos',
+	'HudGameOver' : 'Fim de Jogo!',
+	'HudRestart' : 'Reiniciar',
+	'HudBestScores' : 'Pontuações',
+	'HudExit' : 'Sair',
+	
+	'HelpText' : 'Use WASD para se mover, Espaço para usar, Shift esquerdo para trocar de personagens, R para reiniciar o mapa e Esc para sair para o menu! Este jogo foi feito em quatro dias para a game jam BGMC 32, por Diego Almeida, Capuco e Joel Gomes.'
+}
