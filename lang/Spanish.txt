@@ -1,0 +1,24 @@
+{
+	'GeneralTitle' : 'Old New World',
+	'GeneralNext' : 'Siguiente',
+	'GeneralPrevious' : 'Anterior',
+	'GeneralBack' : 'Volver',
+	'GeneralLoading' : 'Cargando...',
+	
+	'MenuPlay' : 'Jugar',
+	'MenuSettings' : 'Ajustes',
+	'MenuHelp' : 'Ayuda',
+	'MenuAbout' : 'Acerca',
+	'MenuQuit' : 'Salir',
+	'MenuLangSwitch' : 'Español',
+	
+	'HudTime' : 'Tiempo:',
+	'HudPoints' : 'Puntos:',
+	'HudPoints2' : ' puntos',
+	'HudGameOver' : '¡Juego finalizado!',
+	'HudRestart' : 'Reiniciar',
+	'HudBestScores' : 'Puntajes',
+	'HudExit' : 'Salir',
+	
+	'HelpText' : "Usa los botones WASD para moverte, la barra espaciadora para seleccionar, Mayús izquierda para cambiar de personaje, R para reiniciar el nivel y Esc para salir al menú. Este juego fue hecho en cuatro días durante la BGMC 32, por Diego Almeida, Capuco y Joel Gomes."
+}
